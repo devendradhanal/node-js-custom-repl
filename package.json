@@ -1,0 +1,11 @@
+{
+  "name": "node-js-custom-repl",
+  "version": "1.0.0",
+  "description": "Using NodeJS repl package to create custom REPL",
+  "main": "repl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devendra Dhanal <devendradhanal@gmail.com> (http://devendradhanal.github.io/)",
+  "license": "ISC"
+}
